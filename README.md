@@ -1,4 +1,4 @@
-# SFPL-data-visualiser-2023
+# SFPL-2023-data-visualiser
 A visualisation of SFPL player stats based on web-scraped data from Discord.
 
 A sample input has been provided below if you would like to try it out yourself.
